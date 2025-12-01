@@ -90,7 +90,7 @@ This creates `support.db` with:
 
 The `.env` file already contains the API key:
 ```
-GOOGLE_API_KEY=AIzaSyDIk1lc_jAhaPkyranLo9jP6ad2OhFEB1Q
+GOOGLE_API_KEY= your api key
 ```
 
 ### Step 4: Run Tests
