@@ -40,13 +40,13 @@ This system implements a customer service automation platform with three special
 
 ## ✨ Key Features
 
-### 1. **Real AI Agents** (✓ Fixes老師評語)
+### 1. **Real AI Agents**
 - All agents use **Gemini 1.5 Pro** for intelligent decision-making
 - Router Agent: Intent analysis and coordination
 - Data Agent: Data validation with AI
 - Support Agent: Natural language response generation
 
-### 2. **Official MCP Protocol** (✓ Fixes老師評語)
+### 2. **Official MCP Protocol**
 - Uses official `mcp` SDK (not custom REST API)
 - stdio transport for process communication
 - 6 MCP tools implemented correctly
