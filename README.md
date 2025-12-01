@@ -293,7 +293,7 @@ pip install mcp
 ### Problem: "API key not found"
 Make sure `.env` file exists with:
 ```
-GOOGLE_API_KEY=AIzaSyDIk1lc_jAhaPkyranLo9jP6ad2OhFEB1Q
+GOOGLE_API_KEY= your api key
 ```
 
 ### Problem: "support.db not found"
